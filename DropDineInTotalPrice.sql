@@ -1,0 +1,2 @@
+ALTER TABLE DineIn
+DROP COLUMN TotalPrice;

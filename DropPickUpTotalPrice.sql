@@ -1,0 +1,2 @@
+ALTER TABLE PickUp
+DROP COLUMN TotalPrice;
